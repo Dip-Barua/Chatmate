@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="img/tm.jpg"  type="image/icon type">
+  <link href="img/tm.jpg" rel="apple-touch-icon"> 
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>ChatMate | Ninja Developers</title>
   <link rel="stylesheet" href="style.css">
